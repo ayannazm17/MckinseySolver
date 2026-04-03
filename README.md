@@ -31,9 +31,9 @@ python -m streamlit run app.py
 📊 Data Formatting
 To use the solver, upload a .csv file containing your species data. The CSV must include the following column headers exactly as written:
 
-name
-calories_provided
-calories_needed
-depth_range
-temperature_range
+name, 
+calories_provided, 
+calories_needed, 
+depth_range, 
+temperature_rang, 
 food_sources (Note: Separate multiple food sources with a semicolon, e.g., Sea Lettuce;Red Moss)
